@@ -21,6 +21,6 @@
 <br>
 ## 📎 관련 정보
 * 이메일: himhim2514@gmail.com
-* 벨로그(현재 블로그): [treesofgroo.log](https://velog.io/@soaringwave/posts)
+* 벨로그(현재 블로그): [grootwo.log](https://velog.io/@soaringwave/posts)
 * 티스토리(이전 블로그): [꾸준한 욕심쟁이의 도전 일지](https://soaringwave.tistory.com/)  
 블로그에서 더 자세한 개발 과정, 디버깅 진행 상황 등을 볼 수 있습니다. 
